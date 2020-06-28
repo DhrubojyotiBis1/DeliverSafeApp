@@ -1,0 +1,6 @@
+framework module Pods_Deliver_Safe {
+  umbrella header "Pods-Deliver Safe-umbrella.h"
+
+  export *
+  module * { export * }
+}

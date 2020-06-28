@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.0.5)
+  - LocationPicker (1.4.2)
+  - lottie-ios (3.1.6)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - LocationPicker
+  - lottie-ios
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - LocationPicker
+    - lottie-ios
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  LocationPicker: 9af49409ec3ca13fdf4bf6b39e1a3c7dec029f4a
+  lottie-ios: 85ce835dd8c53e02509f20729fc7d6a4e6645a0a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 1a6511a903cc3f5d3a0d48714f7ce422234c0e10
+
+COCOAPODS: 1.8.4
